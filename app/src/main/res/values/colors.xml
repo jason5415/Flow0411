@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+
+    <color name="teal_20">#e9faf9</color>
+    <color name="teal_50">#E0F2F1</color>
+    <color name="teal_100">#B2DFDB</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="teal_300">#4DB6AC</color>
+    <color name="teal_600">#00897B</color>
+    <color name="teal_700">#00796b</color>
+    <color name="teal_800">#00695C</color>
+
+    <color name="red_300">#E57373</color>
+    <color name="red_400">#EF5350</color>
+    <color name="red_500">#F44336</color>
+    <color name="red_700">#D32F2F</color>
+    <color name="red_800">#C62828</color>
+    <color name="red_900">#B71C1C</color>
+
+    <color name="yellow_100">#FFF9C4</color>
+    <color name="yellow_200">#FFF59D</color>
+    <color name="yellow_300">#FFF176</color>
+    <color name="yellow_400">#FFEE58</color>
+    <color name="yellow_500">#FFEB3B</color>
+    <color name="yellow_600">#FDD835</color>
+    <color name="yellow_700">#FBC02D</color>
+    <color name="yellow_800">#F9A825</color>
+
+    <!-- gray scale -->
+    <color name="black">#000000</color>
+    <color name="black_primary">#de000000</color>
+    <color name="black_secondary">#8a000000</color>
+    <color name="black_negative">#61000000</color>
+    <color name="black_a70">#46000000</color>
+    <color name="black_light">#20000000</color>
+    <color name="black_lighter">#14000000</color>
+
+    <color name="white">#ffffff</color>
+    <color name="white_primary">#dcffffff</color>
+    <color name="white_secondary">#b2ffffff</color>
+    <color name="white_negative">#7fffffff</color>
+    <color name="white_light">#50ffffff</color>
+    <color name="white_lighter">#0affffff</color>
+
+    <color name="gray">#e0e0e0</color>
+    <color name="gray_light">#f7f7f7</color>
+    <color name="gray_lighter">#fcfcfc</color>
+
+    <color name="transparent">#00FFFFFF</color>
+
+
+    <color name="accentPrimary">#55828B</color>
+    <color name="accentSecondary">#ba4a77</color>
+    <color name="accentSecondaryMuted">#734557</color>
+
+    <color name="textPrimary">#c9c9c9</color>
+    <color name="textPrimaryBright">#ffffff</color>
+
+    <color name="backgroundPrimary">#000000</color>
+
+    <color name="taskItemBackground">#cca3a3a3</color>
+
+    <color name="yellowWashed">#ffff9e</color>
+    <color name="redWashed">#fa707c</color>
+    <color name="brownWashed">#784851</color>
+    <color name="purpleWashed">#90a0cc</color>
+
+    <color name="orange">#ffb726</color>
+    <color name="redBright">#fc5151</color>
+
+
+    <color name="gunmetal">#16262E</color>
+    <color name="gunmetal_dark">#121F25</color>
+    <color name="slate_gray">#2E4756</color>
+    <color name="deep_green">#3B6064</color>
+    <color name="teal_blue">#3C7A89</color>
+    <color name="greyish_blue">#55828B</color>
+    <color name="green_cream">#87BB82</color>
+    <color name="tea_green">#C9E4CA</color>
+    <color name="light_gray">#a3a3a3</color>
+</resources>
